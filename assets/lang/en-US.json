@@ -1,0 +1,8 @@
+{
+    "enter_text" : "Enter text for translate",
+    "clear" : "Clear",
+    "translate" : "Translate",
+    "copied_toast_message" : "Copied text!",
+    "select_language" : "Select Language",
+    "history" : "History"
+}
